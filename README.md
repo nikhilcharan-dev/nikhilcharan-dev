@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nothing specific.
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on Nowhere
-- 📫 How to reach me please don't
+- 📫 
 
 <!---
 Nikhil1qwer/Nikhil1qwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
