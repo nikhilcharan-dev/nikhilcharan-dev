@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉 I am passionate about learning and exploring programming languages. 🚀
 
-## About Me [I]
+## About Me
 
 - 🌱 I’m currently learning C and Python programming languages.
 - 💡 I’m interested in algorithms, data structures, and software development.
