@@ -10,7 +10,7 @@
 <h3 align="right">- Solo Leveling</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil1qwer" />
+  <img src="https://komarev.com/ghpvc/?username=nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1qwer" />
 </p>
 
 ## About Me
@@ -44,13 +44,11 @@ Feel free to explore my repositories and projects! If you have any questions, id
   </a>
 </p>
 
-<p>
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer&" alt="nikhil1qwer" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer&" alt="nikhil1qwer" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shadow01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <a href="https://www.linkedin.com/in/shadow01/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadow01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_._.n1kh1l._" target="blank">
