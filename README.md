@@ -10,7 +10,7 @@
 <h3 align="right">- Solo Leveling</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1qwer" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil1qwer" />
 </p>
 
 ## About Me
@@ -39,10 +39,13 @@ Feel free to explore my repositories and projects! If you have any questions, id
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer&" alt="nikhil1qwer" />
+<p>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer&" alt="nikhil1qwer" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
