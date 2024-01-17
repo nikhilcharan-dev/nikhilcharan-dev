@@ -7,7 +7,7 @@
 <h1 align="center">Hello, 👋 I'm Nikhil</h1>
 <h3 align="center">In the end, only I can change my life.</h3>
 <h3 align="center">I will keep leveling up, again and again.</h3>
-<h3 align="right">- Solo Leveling</h3>
+<h3 align="right">- Sung Jin Woo</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1qwer" />
