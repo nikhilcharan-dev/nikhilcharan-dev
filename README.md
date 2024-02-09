@@ -44,9 +44,9 @@ Feel free to explore my repositories and projects! If you have any questions, id
   </a>
 </p>
 
-<p align="centre" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer&" alt="nikhil1qwer" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer" alt="nikhil1qwer" />
+</div>
 
 
 <h3 align="center">Connect with me:</h3>
