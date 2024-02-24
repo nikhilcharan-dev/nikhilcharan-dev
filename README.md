@@ -15,14 +15,14 @@
 
 ## About Me
 
-- 🌱 Currently learning C and Python programming languages.
+- 🌱 Currently learning Data Structures through C programming language.
 - 💡 Interested in algorithms, data structures, and software development.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
 ## My Skills 🛠️
 
 - C Programming
-- Python Programming
+- & C++ Programming
 - Data Structures and Algorithms
 - Problem Solving
 
