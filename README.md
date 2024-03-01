@@ -15,8 +15,8 @@
 
 ## About Me
 
-- 🌱 Currently learning Data Structures through C programming language.
-- 💡 Interested in algorithms, data structures, and software development.
+- 🌱 Currently learning Data Structures through C, C++ programming languages.
+- 💡 Interested in Open Source Projects and software development.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
 ## My Skills 🛠️
