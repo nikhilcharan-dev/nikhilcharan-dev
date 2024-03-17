@@ -28,7 +28,7 @@
 
 Feel free to explore my repositories and projects! If you have any questions, ideas, or suggestions, don't hesitate to reach out. Let's learn and grow together! 🌟
 
-<h3 align="centre">Languages and Tools:</h3>
+<h3 align="center"> Languages and Tools: </h3>
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;&nbsp;
