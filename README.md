@@ -21,9 +21,9 @@
 
 ## My Skills 🛠️
 
-- C Programming
-- & C++ Programming
-- Data Structures and Algorithms
+- C & C++ Programming.
+- JavaScript, Html & Css.
+- Data Structures and Algorithms.
 - Problem Solving
 
 Feel free to explore my repositories and projects! If you have any questions, ideas, or suggestions, don't hesitate to reach out. Let's learn and grow together! 🌟
