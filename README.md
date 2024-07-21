@@ -15,13 +15,15 @@
 
 ## About Me
 
-- 🌱 Currently learning Data Structures through C, C++ programming languages.
+- 🌱 Currently learning Advanced Data Structures through C, C++ programming languages.
+        Also learning Java, Python as skill enhancement
 - 💡 Interested in Open Source Projects and Software development.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
 ## My Skills 🛠️
 
 - C & C++ Programming.
+- Java, Python Programming.
 - JavaScript, Html & Css.
 - Data Structures and Algorithms.
 - Problem Solving
