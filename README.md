@@ -15,8 +15,8 @@
 
 ## About Me
 
-- 🌱 Currently learning Advanced Data Structures through C, C++ programming languages.
-        Also learning Java, Python as skill enhancement
+- 🌱  Currently learning Advanced Data Structures through C, C++ programming languages.
+- 🛸  Alongside learning Java, Python as skill enhancement Courses.
 - 💡 Interested in Open Source Projects and Software development.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
