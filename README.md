@@ -24,7 +24,7 @@
 
 - C & C++ Programming.
 - Java, Python Programming.
-- JavaScript, Html & Css.
+- JavaScript, HTML && CSS.
 - Data Structures and Algorithms.
 - Problem Solving
 
