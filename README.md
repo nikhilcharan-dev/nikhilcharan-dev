@@ -51,7 +51,7 @@ Feel free to explore my repositories and projects! If you have any questions, id
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1qwer" alt="nikhil1qwer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcharan-dev" alt="nikhil1qwer" />
 </div>
 
 
