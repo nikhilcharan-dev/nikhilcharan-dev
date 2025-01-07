@@ -15,16 +15,16 @@
 
 ## About Me
 
-- 🌱  Currently learning Advanced Data Structures through C, C++ programming languages.
-- 🛸  Alongside learning Java, Python as skill enhancement Courses.
-- 💡 Interested in Open Source Projects and Software development.
+- 🌱 Currently learning Redhat Operating System and Database Management System.
+- 🛸 Alongside learning Python with Django as skill enhancement Courses.
+- 💡 Interested in Open Source Projects and Web Development in React/Next.js.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
 ## My Skills 🛠️
 
 - C & C++ Programming.
 - Java, Python Programming.
-- JavaScript, HTML && CSS.
+- JavaScript, HTML5 && CSS3.
 - ReactJs, NodeJs.
 - Data Structures and Algorithms.
 - Problem Solving...,
