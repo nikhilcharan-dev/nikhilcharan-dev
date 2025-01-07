@@ -61,7 +61,7 @@ Feel free to explore my repositories and projects! If you have any questions, id
   <a href="https://www.linkedin.com/in/shadow01/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shadow01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" />
   </a>
-  <a href="[https://instagram.comlazy.perfectionist__/]" target="blank">
+  <a href="https://instagram.comlazy.perfectionist__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.n1kh1l._" height="30" width="40" />
   </a>
 </p>
