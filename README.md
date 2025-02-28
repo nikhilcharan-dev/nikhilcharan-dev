@@ -20,14 +20,19 @@
 - 💡 Interested in Open Source Projects and Web Development in React/Next.js.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
+## My Path
+- Competitive Coding Enthusiast. [C++]
+- Aspiring Machine Learning pupil.
+
 ## My Skills 🛠️
 
+- Problem Solving...,
 - C & C++ Programming.
 - Java, Python Programming.
 - JavaScript, HTML5 && CSS3.
-- ReactJs, NodeJs.
+- ReactJs, NodeJs, Express.
+- MySQL, MongoDb.
 - Data Structures and Algorithms.
-- Problem Solving...,
 
 Feel free to explore my repositories and projects! If you have any questions, ideas, or suggestions, don't hesitate to reach out. Let's learn and grow together! 🌟
 
