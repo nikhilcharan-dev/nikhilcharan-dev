@@ -38,21 +38,33 @@ Feel free to explore my repositories and projects! If you have any questions, id
 
 <h3 align="center"> Languages and Tools: </h3>
 <p align="center">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;&nbsp;
-  </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="css3" width="40" height="40"/> &nbsp;&nbsp;
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
+      <img src="https://cdn-icons-png.flaticon.com/128/15772/15772797.png" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
     </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <img src="https://th.bing.com/th/id/OIP.-7G1gnXkDcupxoPO_mzWuwHaED?w=269&h=180&c=7&r=0&o=5&pid=1.7" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <img src="https://th.bing.com/th/id/OIP.pD3JpZWwZ_03KCbyChEDxAHaHa?w=155&h=180&c=7&r=0&o=5&pid=1.7" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
+    </a>
 </p>
 
 
