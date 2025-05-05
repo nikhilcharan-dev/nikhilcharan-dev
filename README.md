@@ -15,8 +15,8 @@
 
 ## About Me
 
-- 🌱 Currently learning Redhat Operating System and Database Management System.
-- 🛸 Alongside learning Python with Django as skill enhancement Courses.
+- 🌱 Currently learning Full Stack Development with React Native.
+- 🛸 Alongside learning Python with Django for skill enhancement.
 - 💡 Interested in Open Source Projects and Web Development in React/Next.js.
 - 📚 Constantly exploring new resources to expand knowledge and skills.
 
@@ -26,7 +26,8 @@
 
 ## My Skills 🛠️
 
-- Problem Solving...,
+- Kali, Ubuntu OS & MYSQL.
+- Problem Solving.
 - C & C++ Programming.
 - Java, Python Programming.
 - JavaScript, HTML5 && CSS3.
@@ -56,9 +57,6 @@ Feel free to explore my repositories and projects! If you have any questions, id
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="html5" width="40" height="40"/> &nbsp;&nbsp;
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
-    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img src="https://th.bing.com/th/id/OIP.-7G1gnXkDcupxoPO_mzWuwHaED?w=269&h=180&c=7&r=0&o=5&pid=1.7" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp; 
     </a>
