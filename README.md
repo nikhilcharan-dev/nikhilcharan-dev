@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Nikhil1qwer">
+  <a href="https://github.com/nikhilcharan-dev">
     <img src="https://64.media.tumblr.com/eb8e76984014d0db1e53ec7795f03ec0/1924a8282a163135-34/s540x810/1884baa6bdd0cfc5bfd175dad4131c9f438cc0de.gifv" alt="MasterHead">
   </a>
 </p>
@@ -9,9 +9,12 @@
 <h3 align="center">I will keep leveling up, again and again.</h3>
 <h3 align="right">- Sung Jin Woo</h3>
 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nikhil1qwer&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1qwer" />
 </p>
+
+# <a href="https://nixquest.me" align="right">My Portfolio</a>
 
 ## About Me
 
