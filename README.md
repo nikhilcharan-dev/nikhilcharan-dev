@@ -85,8 +85,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
   </a>
 </p>
-
 ---
+
+## Github Neighbourhood Program
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2143&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</div>
 
 > “Consistency is harder when no one is clapping for you. Keep going.” 🚀
 
