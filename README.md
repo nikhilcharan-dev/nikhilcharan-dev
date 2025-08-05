@@ -55,14 +55,14 @@
   <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/15772/15772797.png" alt="HTML5" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40" />
+  
 </p>
 
 ---
