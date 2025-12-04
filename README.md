@@ -48,6 +48,14 @@
 
 ---
 
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcharan-dev&theme=tokyonight" alt="nikhilcharan-dev" />
+</div>
+
+---
+
 ## 🧰 Languages & Tools
 
 <p align="center">
@@ -65,13 +73,18 @@
   <img src="https://ocamlpro.com/blog/assets/img/logo_solidity_title.png" alt="Solidity" width="120" height="120" />
 </p>
 
+<p align="center">
+  <img src="https://dev-splin.github.io/assets/img/thumbnail/jetbrains-webstorm-logo.png" alt="WebStorm" width="100" height="100" />
+  <img src="https://th.bing.com/th/id/OIP.CJs-YFBOhdpnrcApa5XOGQHaHa?w=161&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Git" width="60" height="600" />
+  <img src="https://th.bing.com/th/id/OIP.Lfn_FpjOI5nOx87T5pfUOgHaHa?w=199&h=199&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Post Man" width="60" height="60" />
+  <img src="https://miro.medium.com/max/512/1*XqsAiEjXejI6w-E-_fKKTA.jpeg" alt="Remix IDE" width="60" height="60" />
+  <img src="https://th.bing.com/th/id/OIP.uW9e1vXfwHE_xeRwwv837wHaHa?w=173&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Red Hat" width="60" height="60" />
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40" /> -->
+</p>
+
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcharan-dev&theme=tokyonight" alt="nikhilcharan-dev" />
-</div>
+> “Consistency is harder when no one is clapping for you. Keep going.” 🚀
 
 ---
 
@@ -85,6 +98,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
   </a>
 </p>
-
-> “Consistency is harder when no one is clapping for you. Keep going.” 🚀
 
