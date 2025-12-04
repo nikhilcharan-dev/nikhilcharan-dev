@@ -23,27 +23,27 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently learning **Full Stack Development** with **React Native**
-- 🌱 Diving deeper into **Python & Django** for back-end expertise
-- 🛸 Passionate about **Open Source**, **React**, and **Next.js**
-- 📚 Always curious and love learning from every opportunity
+- 🔭 Currently learning **Full Stack Development** with **React Native**.
+- 🌱 Diving deeper into **Block Chain** for Decentralised Network.
+- 🛸 Passionate about **Open Source**, **React**, and **Next.js**.
+- 📚 Always curious and love learning from every opportunity.
 
 ---
 
 ## 🚀 My Tech Arsenal
 
-- **Languages:** C, C++, Java, Python, JavaScript, HTML5, CSS3  
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express, Django  
-- **Databases:** MySQL, MongoDB  
-- **Tools & OS:** Git, Kali Linux, Ubuntu, VS Code, Postman  
-- **Core Areas:** DSA, Competitive Programming, Problem Solving  
+- **Languages:** C, C++, Java, Python, JavaScript, HTML5, CSS3, Solidity
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Django, Wagmi.js 
+- **Databases:** MySQL, MongoDB, Oracle
+- **Tools & OS:** Git & GitHub, Kali Linux, Ubuntu, Postman, Webstorm, Remix IDE
+- **Core Areas:** DSA, Competitive Programming, Problem Solving.
 
 ---
 
 ## ⚔️ The Path I'm Walking
 
 - 💻 Competitive Programmer at heart (mainly C++)
-- 🤖 Aspiring Machine Learning Enthusiast
+- 🤖 Aspiring Block Chain Engineer.
 - 🧩 Love solving logic problems and debugging complex systems
 
 ---
@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40" />
-  
+  <img src="https://ocamlpro.com/blog/assets/img/logo_solidity_title.png" alt="Solidity" width="120" height="120" />
 </p>
 
 ---
