@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nixquest.me" target="_blank">
+  <a href="https://echo.nixquest.me" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-Click%20Here-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue" alt="Portfolio Badge" />
   </a>
 </p>
