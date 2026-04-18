@@ -58,29 +58,31 @@
 
 ## 🧰 Languages & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next.js" width="40" height="40" />
-  <img src="https://ocamlpro.com/blog/assets/img/logo_solidity_title.png" alt="Solidity" width="120" height="120" />
-</p>
+<table align="center">
+<tr>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
+  <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" width="40"/><br/>C</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JS</td>
+  <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="40"/><br/>CSS</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>React</td>
+</tr>
 
-<p align="center">
-  <img src="https://dev-splin.github.io/assets/img/thumbnail/jetbrains-webstorm-logo.png" alt="WebStorm" width="100" height="100" />
-  <img src="https://th.bing.com/th/id/OIP.CJs-YFBOhdpnrcApa5XOGQHaHa?w=161&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Git" width="60" height="600" />
-  <img src="https://th.bing.com/th/id/OIP.Lfn_FpjOI5nOx87T5pfUOgHaHa?w=199&h=199&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Post Man" width="60" height="60" />
-  <img src="https://miro.medium.com/max/512/1*XqsAiEjXejI6w-E-_fKKTA.jpeg" alt="Remix IDE" width="60" height="60" />
-  <img src="https://th.bing.com/th/id/OIP.uW9e1vXfwHE_xeRwwv837wHaHa?w=173&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Red Hat" width="60" height="60" />
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40" /> -->
-</p>
+<tr>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</td>
+</tr>
+
+<tr>
+  <td align="center"><img src="https://dev-splin.github.io/assets/img/thumbnail/jetbrains-webstorm-logo.png" width="40"/><br/>WebStorm</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>Git</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman</td>
+  <td align="center"><img src="https://miro.medium.com/max/512/1*XqsAiEjXejI6w-E-_fKKTA.jpeg" width="40"/><br/>Remix</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="40"/><br/>Red Hat</td>
+</tr>
+</table>
 
 ---
 
