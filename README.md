@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/nikhilcharan-dev">
-  <img src="https://64.media.tumblr.com/eb8e76984014d0db1e53ec7795f03ec0/1924a8282a163135-34/s540x810/1884baa6bdd0cfc5bfd175dad4131c9f438cc0de.gifv" alt="Banner" width="100%" />
+  <img src="https://64.media.tumblr.com/eb8e76984014d0db1e53ec7795f03ec0/1924a8282a163135-34/s540x810/1884baa6bdd0cfc5bfd175dad4131c9f438cc0de.gif" alt="Banner" width="100%" />
 </a>
 
 <br />
@@ -87,42 +87,12 @@ const nikhil = {
 
 ---
 
-## 📊 Battle Stats
+## 📊 Stats & Activity
 
 <div align="center">
 
-<a href="https://github.com/nikhilcharan-dev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilcharan-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=7C3AED" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcharan-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/nikhilcharan-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcharan-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=8" height="165" />
-</a>
-
-</div>
-
----
-
-## 🎯 Trophy Case
-
-<div align="center">
-
-<a href="https://github.com/nikhilcharan-dev">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilcharan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilcharan-dev&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img height="165" src="https://streak-stats.demolab.com?user=nikhilcharan-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Streak Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcharan-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -142,11 +112,7 @@ const nikhil = {
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br /><br />
 
 ### *"Consistency is harder when no one is clapping for you. Keep going."*
 
