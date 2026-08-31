@@ -19,7 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=nikhilcharan-dev&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/nikhilcharan-dev?label=Followers&style=for-the-badge&color=7C3AED" alt="followers" />
-<a href="https://echo.nixquest.me" target="_blank">
+<a href="https://weeb-me.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-echo.nixquest.me-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
 </a>
 
